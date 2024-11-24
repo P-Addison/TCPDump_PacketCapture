@@ -34,7 +34,7 @@ I need to identify the network interfaces that can be used to capture network pa
 
 ![T1 2](https://github.com/user-attachments/assets/abc2e21f-f141-46d6-bda9-8ccc95c33e32)
 
-    This command will also help identify which network interfaces are available, useful on systems that do not include the `ifconfig` command.
+This command will also help identify which network interfaces are available, useful on systems that do not include the `ifconfig` command.
 
 ## Task 2: Inspect the Network Traffic of a Network Interface with tcpdump
 
